@@ -1,5 +1,4 @@
-import socket
-import os
+import socket, os
 
 HOST = 'localhost'
 PORT = 8000
